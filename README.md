@@ -5,7 +5,7 @@
 
 **To RUN**
 * Download the repo to your local machine 
-* Open the solution file <WishList.sln> with Visual Studio
+* Open the solution file AspNetCoreWishList.sln with Visual Studio
 * Build Application
 * Press start button on Visual Studio
 
